@@ -1,0 +1,35 @@
+.header {
+    background-color: rgb(11, 166, 255, 0.2);
+    padding: 20px;
+}
+
+h1 {
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 60px;;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: normal;
+    font-family: serif;
+    color: rgb(255, 179, 0);
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    max-width: 370px;
+    line-height: 1.5;
+    opacity: 0.5;
+}
+
+button {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgb(11, 166, 255, 0.0);
+    border: 2px solid black;
+    border-radius: 4px;
+}
